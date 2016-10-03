@@ -1,0 +1,8 @@
+## Interface: 70000
+## Title: Lib: NumberCrunch-1.0
+## Notes: Provides functions for scaling down ridiculous numbers.
+## Author: AlternateFiction
+## LoadOnDemand: 1
+
+embeds.xml
+LibNumberCrunch-1.0.lua
